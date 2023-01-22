@@ -7,7 +7,7 @@
 			}
 		},
 		"PaymentStatus": {
-			"regexp": "/Approved|Pending/"
+			"regexp": "^/Approved|Pending/"
 		},
 		"BuySell": {
 			"regexp": "Sell"
