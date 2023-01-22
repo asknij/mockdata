@@ -1,42 +1,44 @@
 {
-  "User": {
-    "TradeID": {
-      "string": {}
-    },
-    "PaymentStatus": {
-      "regexp": "Pending"
-    },
-    "Buy/Sell": {
-      "regexp": "^(?:Sell|Buy)$"
-    },
-    "CCY": {
-      "regexp": "^(?:CA|US)D$"
-    },
-    "CTR_CCY": {
-      "regexp": "^(?:CA|US)D$"
-    },    
-    "updateTime": {
-      "regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/"
-    },
-    "Rate": {
-      "int": {
-        "min": 1,
-        "max": 10
-      },
-      "CRT_CCY_Amount": {
-      "int": {
-        "min": 1,
-        "max": 10
-      },
-    "CCY_Amount": {
-      "int": {
-        "min": 1,
-        "max": 10
-      }
-    
-    },
-    "isPublic": {
-      "boolean": {}
-    }
-  }
+	"User": {
+		"TradeID": {
+			"string": {}
+		},
+		"PaymentStatus": {
+			"regexp": "Pending"
+		},
+		"Buy/Sell": {
+			"regexp": "^(?:Sell|Buy)$"
+		},
+		"CCY": {
+			"regexp": "^(?:CA|US)D$"
+		},
+		"CTR_CCY": {
+			"regexp": "^(?:CA|US)D$"
+		},
+		"updateTime": {
+			"regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/"
+		},
+		"Rate": {
+			"int": {
+				"min": 1,
+				"max": 10
+			}
+		},
+		"CRT_CCY_Amount": {
+			"int": {
+				"min": 1,
+				"max": 10
+			}
+		},
+		"CCY_Amount": {
+			"int": {
+				"min": 1,
+				"max": 10
+			}
+
+		},
+		"isPublic": {
+			"boolean": {}
+		}
+	}
 }
