@@ -13,10 +13,10 @@
 			"regexp": "Sell"
 		},
 		"CCY": {
-			"regexp": "^(?:GBP|CAD|USD)$"
+			"regexp": "USD"
 		},
 		"CTR_CCY": {
-			"regexp": "^(?:CAD|USD)$"
+			"regexp": "USD"
 		},
 		"updateTime": {
 			"regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/"
