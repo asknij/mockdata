@@ -22,17 +22,17 @@
       "int": {
         "min": 1,
         "max": 10
-      }
+      },
       "CRT_CCY_Amount": {
       "int": {
         "min": 1,
         "max": 10
-      }
+      },
     "CCY_Amount": {
       "int": {
         "min": 1,
         "max": 10
-      }
+      },
     
     },
     "isPublic": {
