@@ -6,7 +6,7 @@
 		"PaymentStatus": {
 			"regexp": "Pending"
 		},
-		"Buy/Sell": {
+		"BuySell": {
 			"regexp": "^(?:Sell|Buy)$"
 		},
 		"CCY": {
