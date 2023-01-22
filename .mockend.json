@@ -7,7 +7,7 @@
 			}
 		},
 		"PaymentStatus": {
-			"regexp": "Pending"
+			"regexp": "^(?:Approved|Executed|Pending)$"
 		},
 		"BuySell": {
 			"regexp": "Sell"
@@ -19,7 +19,7 @@
 			"regexp": "USD"
 		},
 		"updateTime": {
-			"regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/"
+			"regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$"
 		},
 		"Rate": {
 			"int": {
