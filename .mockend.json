@@ -1,7 +1,10 @@
 {
 	"User": {
-		"TradeID": {
-			"string": {}
+		"TradeId": {
+			"int": {
+				"min": 10000,
+				"max": 99999
+			}
 		},
 		"PaymentStatus": {
 			"regexp": "Pending"
