@@ -1,13 +1,13 @@
 {
   "Trade": {
-    "Trade_Id": "12345",
-    "Payment_Status": "Pending",
-    "Update_time": "2022/01/25",
-    "Buy/Sell": "Buy",
-    "CCY": "CAD",
-    "CCY_Amount": "1.0",
-    "Rate": "1.1",
-    "CTR_CCY": "USD",
-    "CTR_CCV_Amount": "0.88"
+    "Trade_Id": {"12345"},
+    "Payment_Status": {"Pending"},
+    "Update_time": {"2022/01/25"},
+    "Buy/Sell": {"Buy"},
+    "CCY": {"CAD"},
+    "CCY_Amount": {"1.0"},
+    "Rate": {"1.1"},
+    "CTR_CCY": {"USD"},
+    "CTR_CCV_Amount": {"0.88"}
   }
 }
