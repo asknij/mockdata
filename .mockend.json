@@ -13,10 +13,10 @@
 			"regexp": "^(?:Sell|Buy)$"
 		},
 		"CCY": {
-			"regexp": "^(?:CA|US)D$"
+			"regexp": "^(?:CAD|USD)$"
 		},
 		"CTR_CCY": {
-			"regexp": "^(?:CA|US)D$"
+			"regexp": "^(?:CAD|USD)$"
 		},
 		"updateTime": {
 			"regexp": "^[0-9]{1,2}\/[0-9]{1,2}\/[0-9]{4}$/"
@@ -40,8 +40,5 @@
 			}
 
 		},
-		"isPublic": {
-			"boolean": {}
-		}
 	}
 }
