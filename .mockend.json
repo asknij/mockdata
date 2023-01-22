@@ -1,5 +1,12 @@
 {
-  "Trade": {
-    "Trade_Id": {"string":{"12345"}},
+  "Trade":
+  {
+    "Trade_Id": 
+    {
+      "string":
+      {
+        "12345"
+      }
+     },
   }
 }
