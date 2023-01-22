@@ -10,7 +10,7 @@
 			"regexp": "Pending"
 		},
 		"BuySell": {
-			"regexp": "^(?:Sell|Buy)$"
+			"regexp": "^(Sell|Buy)$"
 		},
 		"CCY": {
 			"regexp": "^(?:CAD|USD)$"
