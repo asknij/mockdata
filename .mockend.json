@@ -13,7 +13,7 @@
 			"regexp": "Sell"
 		},
 		"CCY": {
-			"regexp": "^(?:CAD|USD)$"
+			"regexp": "^(?:GBP|CAD|USD)$"
 		},
 		"CTR_CCY": {
 			"regexp": "^(?:CAD|USD)$"
