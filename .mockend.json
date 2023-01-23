@@ -1,5 +1,5 @@
 {
-	"T": {
+	"Trade": {
 		"TradeId": {
 			"int": {
 				"min": 10000,
