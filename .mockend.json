@@ -4,8 +4,8 @@
 			"items": 5
 		},
 		"TradeId": {
-			"int": {
-				439356
+			"string": {
+				"439356"
 			}
 		},
 		"PaymentStatus": {
