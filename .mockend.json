@@ -1,7 +1,7 @@
 {
 	"Trade": {
 		"_": {
-			"items": 10
+			"items": 5
 		},
 		"TradeId": {
 			"int": {
