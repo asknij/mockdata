@@ -5,8 +5,7 @@
 		},
 		"TradeId": {
 			"int": {
-				"min": 10000,
-				"max": 99999
+				439356
 			}
 		},
 		"PaymentStatus": {
