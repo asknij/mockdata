@@ -4,9 +4,7 @@
 			"items": 5
 		},
 		"TradeId": {
-			"string": {
-				"439356"
-			}
+			"string": {"regex":439356"}
 		},
 		"PaymentStatus": {
 			"regexp": "Pending"
