@@ -1,0 +1,67 @@
+[
+ {
+  "TradeId": 439356,
+  "PaymentStatus": "Payment Returned",
+  "updateTime": "03\/29\/2023 05:08 PM",
+  "BuySell": "BUY",
+  "CCY": "CAD",
+  "CCY_Amount": 3000,
+  "Rate": 1.331793,
+  "CTR_CCY": "USD",
+  "Trade_data": "03\/30\/2023",
+  "Value_Date": "03\/30\/2023",
+  "CTR_CCY_Amount": 2252.6
+ },
+ {
+  "TradeId": 439354,
+  "PaymentStatus": "Payment Processing",
+  "updateTime": "03\/29\/2023 05:30 PM",
+  "BuySell": "BUY",
+  "CCY": "TRY",
+  "CCY_Amount": 30000,
+  "Rate": 6.740509,
+  "CTR_CCY": "USD",
+  "Trade_data": "03\/30\/2023",
+  "Value_Date": "03\/30\/2023",
+  "CTR_CCY_Amount": 4450.7
+ },
+ {
+  "TradeId": 439352,
+  "PaymentStatus": "Payment Complete",
+  "updateTime": "03\/30\/2023 09:09 AM",
+  "BuySell": "BUY",
+  "CCY": "INR",
+  "CCY_Amount": 5555,
+  "Rate": 71.121188,
+  "CTR_CCY": "USD",
+  "Trade_data": "03\/31\/2023",
+  "Value_Date": "03\/31\/2023",
+  "CTR_CCY_Amount": 78.11
+ },
+ {
+  "TradeId": 439349,
+  "PaymentStatus": "Payment needs more information.Please contact PathBankFX",
+  "updateTime": "03\/30\/2023 10:05 AM",
+  "BuySell": "BUY",
+  "CCY": "INR",
+  "CCY_Amount": 4250,
+  "Rate": 71.126375,
+  "CTR_CCY": "USD",
+  "Trade_data": "03\/3\/2023",
+  "Value_Date": "04\/3\/2023",
+  "CTR_CCY_Amount": 59.75
+ },
+ {
+  "TradeId": 439347,
+  "PaymentStatus": "Pending Review by PathBank FX",
+  "updateTime": "03\/30\/2023 11:05 AM",
+  "BuySell": "BUY",
+  "CCY": "ILS",
+  "CCY_Amount": 40000,
+  "Rate": 3.375175,
+  "CTR_CCY": "USD",
+  "Trade_data": "03\/3\/2023",
+  "Value_Date": "04\/3\/2023",
+  "CTR_CCY_Amount": 11851.24
+ }
+]
